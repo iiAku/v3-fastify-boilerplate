@@ -1,0 +1,10 @@
+{
+  "port": "SERVICE_PORT_VALUE",
+  "endpoint": "YOUR_FETCHING_ENDPOINT",
+  "example": {
+    "outputDir": "/tmp/images/example/",
+    "outputExtension": "jpg",
+    "concurrency": 10,
+    "TTL": 120
+  }
+}

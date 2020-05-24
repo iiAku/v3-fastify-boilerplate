@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@keyv/redis": "^2.1.1",
+    "aigle": "^1.14.1",
+    "fastify": "^2.14.1",
+    "image-size": "^0.8.3",
+    "keyv": "^4.0.1",
+    "phin": "^3.4.1"
+  },
+  "name": "v3-fastify-boilerplate",
+  "version": "1.0.0",
+  "description": "A generic module based image fetcher",
+  "main": "index.js",
+  "author": "Yoann Gendrey",
+  "license": "MIT"
+}
